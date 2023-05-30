@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Duke",
+        "age": 5,
+        "breed": "Ragdoll",
+        "isEvil": true,
+        "favouriteFood": "chicken",
+        "sex": "M"
+    },
+    {
+        "name": "Sammie",
+        "age": 4,
+        "breed": "Ginger Tabby",
+        "isEvil": false,
+        "favouriteFood": "tiny baby birds",
+        "sex": "M"
+    },
+    {
+        "name": "Freya",
+        "age": 1,
+        "breed": "Tabby and White",
+        "isEvil": false,
+        "favouriteFood": "unknown",
+        "sex": "F"
+    }
+]
