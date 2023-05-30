@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Duke",
         "age": 5,
         "breed": "Ragdoll",
@@ -8,6 +9,7 @@
         "sex": "M"
     },
     {
+        "id": 2,
         "name": "Sammie",
         "age": 4,
         "breed": "Ginger Tabby",
@@ -16,6 +18,7 @@
         "sex": "M"
     },
     {
+        "id": 3,
         "name": "Freya",
         "age": 1,
         "breed": "Tabby and White",
